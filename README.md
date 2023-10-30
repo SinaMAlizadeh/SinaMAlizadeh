@@ -2,7 +2,7 @@
   Hi there 👋 I'm Sina 👨‍💻
 </h1>
 <p align='center'>
- Front-end developer
+ Front-end Developer
 </p>
 <p align='center'>  
   <a href="https://www.linkedin.com/in/sina-mohammad-alizadeh-saeed-4436b68a/" >
@@ -20,6 +20,10 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SinaMAlizadeh&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
+
+<p align='center'>
+  
+</p>
 
 
 
