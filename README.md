@@ -4,6 +4,16 @@
 <p align='center'>
  Front-end Developer
 </p>
+
+<p>
+Highly skilled and experienced Front-End Developer in web development. Proficient in 
+JavaScript, with expertise in popular front-end frameworks such as React.js, Next.js. I have 
+a track record of successfully contributing to a variety of projects, and my commitment to 
+delivering cutting-edge web solutions is underpinned by my deep understanding of design 
+patterns and the application of SOLID principles. I am dedicated to staying updated with 
+industry trends and continuously improving my skills.
+</p>
+
 <p align='center'>  
   <a href="https://linkedin.com/in/sina-alizadeh-4436b68a" >
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
