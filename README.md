@@ -33,9 +33,9 @@ industry trends and continuously improving my skills.
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SinaMAlizadeh&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-</br align='center'>
+</br>
 
-<div >
+<div  align='center' >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" widht="70px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" widht="70px" />
 </div>
