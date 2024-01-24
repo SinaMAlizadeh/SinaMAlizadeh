@@ -37,9 +37,7 @@ industry trends and continuously improving my skills.
 
 <p  align='center' >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70px" />
-<p  width="70px" style="backgroundColor:white">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"  width="70px" />
 
 </svg>
 </p>
