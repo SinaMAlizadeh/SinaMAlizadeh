@@ -1,6 +1,7 @@
 <h1 align='center'>
   Hi there 👋 I'm Sina 👨‍💻
 </h1>
+
 <p align='center'>
  Front-end Developer
 </p>
@@ -32,10 +33,9 @@ industry trends and continuously improving my skills.
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SinaMAlizadeh&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
+</br>
 
-<p align='center'>
-  
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 
 
