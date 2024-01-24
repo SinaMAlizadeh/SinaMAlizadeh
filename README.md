@@ -14,6 +14,8 @@ patterns and the application of SOLID principles. I am dedicated to staying upda
 industry trends and continuously improving my skills.
 </p>
 
+</br>
+
 <p align='center'>  
   <a href="https://linkedin.com/in/sina-alizadeh-4436b68a" >
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
