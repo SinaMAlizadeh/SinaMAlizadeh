@@ -35,10 +35,10 @@ industry trends and continuously improving my skills.
 
 </br>
 
-<div  align='center' >
+<p  align='center' >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" widht="70px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" widht="70px" />
-</div>
+</p>
 
 
 
