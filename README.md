@@ -5,7 +5,7 @@
  Front-end Developer
 </p>
 
-<p>
+<p align='justify'>
 Highly skilled and experienced Front-End Developer in web development. Proficient in 
 JavaScript, with expertise in popular front-end frameworks such as React.js, Next.js. I have 
 a track record of successfully contributing to a variety of projects, and my commitment to 
