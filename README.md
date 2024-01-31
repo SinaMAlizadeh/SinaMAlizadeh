@@ -32,17 +32,17 @@ industry trends and continuously improving my skills.
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SinaMAlizadeh&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
+<p align='center'>
+   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinaMAlizadeh&layout=compact&theme=dark" ></a>
+</p>
 </br>
-
 </hr>
-
 <p align='center'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/>
 </p>
-
 <p align='center'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="30px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  width="30px"/>
