@@ -163,3 +163,20 @@ industry trends and continuously improving my skills.
 
 
 </details>
+<details>
+  <summary>📦 Packages </summary>
+  
+
+| Name                 | A short summary                              | Install   | Downloads |
+| -------------------- | -------------------------------------------- | --------- | --------- |
+|  [angular-countdown-date-time](https://www.npmjs.com/package/angular-countdown-date-time)    | Angular countdown by end time   | ![NPM Version](https://img.shields.io/npm/v/angular-countdown-date-time)  | ![NPM Downloads](https://img.shields.io/npm/d18m/angular-countdown-date-time) |
+ [reactjs-simple-table](https://www.npmjs.com/package/reactjs-simple-table) | A simple and reusable table for React | ![NPM Version](https://img.shields.io/npm/v/reactjs-simple-table) | ![NPM Downloads](https://img.shields.io/npm/d18m/reactjs-simple-table) | 
+   [reactjs-simple-slider](https://www.npmjs.com/package/reactjs-simple-slider)| A simple and reusable image slider for React | ![NPM Version](https://img.shields.io/npm/v/reactjs-simple-slider) | ![NPM Downloads](https://img.shields.io/npm/d18m/reactjs-simple-slider) |
+ [react-tags-in-textarea](https://www.npmjs.com/package/react-tags-in-textarea) | Add dynamic tagging capabilities to their React applications  text content area | ![NPM Version](https://img.shields.io/npm/v/react-tags-in-textarea) | ![NPM Downloads](https://img.shields.io/npm/d18m/react-tags-in-textarea)
+
+
+
+
+
+</details>
+
