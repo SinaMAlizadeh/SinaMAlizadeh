@@ -183,15 +183,15 @@ industry trends and continuously improving my skills.
   <br/>
 
  #  <sup>   [Repeating Failed Requests After Token Refresh in Axios Interceptors for React.js Apps](https://medium.com/@sina.alizadeh120/repeating-failed-requests-after-token-refresh-in-axios-interceptors-for-react-js-apps-50feb54ddcbc)</sup>
- <sup> In modern web applications, making HTTP requests to APIs is a fundamental part of the development process. Axios, a popular JavaScript library, simplifies the process of making HTTP requests in React.js applications. However, when dealing with secured APIs and token-based authentication, it’s essential to handle token expiration gracefully. This article explores how to ensure that all requests made during a token refresh process are automatically repeated with the new access token.</sup> <sup> [Github Repository](https://github.com/SinaMAlizadeh/axios-interceptors)</sup>
+ In modern web applications, making HTTP requests to APIs is a fundamental part of the development process. Axios, a popular JavaScript library, simplifies the process of making HTTP requests in React.js applications. However, when dealing with secured APIs and token-based authentication, it’s essential to handle token expiration gracefully. This article explores how to ensure that all requests made during a token refresh process are automatically repeated with the new access token. [Github Repository](https://github.com/SinaMAlizadeh/axios-interceptors)
 
 
 
  #  <sup> [Unlocking Rapid Development: TypeScript Model Generation with Swagger](https://medium.com/@sina.alizadeh120/repeating-failed-requests-after-token-refresh-in-axios-interceptors-for-react-js-apps-50feb54ddcbc)</sup>
  
- <sup> 
-As a React and Next.js developer, I faced hurdles managing multiple APIs and adapting to backend model updates. Leveraging Swagger, Axios, and similar tools, I embarked on a journey to simplify backend model generation. The goal was to create a seamless system for integrating models into projects despite frequent backend changes, alleviating the complexity of microservices.</sup> 
-<sup> [Github Repository](https://github.com/snapp-store/typescript-swagger-model-generator)</sup>
+
+As a React and Next.js developer, I faced hurdles managing multiple APIs and adapting to backend model updates. Leveraging Swagger, Axios, and similar tools, I embarked on a journey to simplify backend model generation. The goal was to create a seamless system for integrating models into projects despite frequent backend changes, alleviating the complexity of microservices.
+[Github Repository](https://github.com/snapp-store/typescript-swagger-model-generator)
 
 </details>
 
@@ -203,7 +203,7 @@ As a React and Next.js developer, I faced hurdles managing multiple APIs and ada
   
  #  <sup> <img src="https://github.com/SinaMAlizadeh/SinaMAlizadeh/assets/32089050/a2129e7a-bd9a-4058-aa2e-a153b6fa570f" alt="drawing" width="20"/> [Nowruz Game!](https://github.com/SinaMAlizadeh/nowruz-game)</sup>
    
- <sup> Inspired by the vibrant traditions of Nowruz, the Persian New Year celebration. As a celebration of spring and new beginnings. </sup> <sup> [Play!](https://nowruz-game.darkube.app/)</sup>
+Inspired by the vibrant traditions of Nowruz, the Persian New Year celebration. As a celebration of spring and new beginnings.  [Play!](https://nowruz-game.darkube.app/)
 
 </details>
 
