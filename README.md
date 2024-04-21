@@ -187,7 +187,7 @@ industry trends and continuously improving my skills.
 
 
 
- #  <sup> [Unlocking Rapid Development: TypeScript Model Generation with Swagger](https://medium.com/@sina.alizadeh120/repeating-failed-requests-after-token-refresh-in-axios-interceptors-for-react-js-apps-50feb54ddcbc)</sup>
+ #  <sup> [Unlocking Rapid Development: TypeScript Model Generation with Swagger](https://medium.com/@sina.alizadeh120/unlocking-rapid-development-typescript-model-generation-with-swagger-5c184a3c89f4)</sup>
  
 
 As a React and Next.js developer, I faced hurdles managing multiple APIs and adapting to backend model updates. Leveraging Swagger, Axios, and similar tools, I embarked on a journey to simplify backend model generation. The goal was to create a seamless system for integrating models into projects despite frequent backend changes, alleviating the complexity of microservices.
